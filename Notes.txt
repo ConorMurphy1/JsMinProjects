@@ -1,0 +1,13 @@
+This is a collection of mini JavaScript projects, to hone personal skills.
+Will be using only Html, CSS and JavaScript.
+
+
+Project list: https://emeritus.org/blog/coding-javascript-project-ideas/
+1. To do list                               Pending 
+2. Weather Application                      Pending
+3. Quiz Game                                Pending
+4. Recipe Finder                            Pending
+5. Memory Game                              Pending
+6. Calculator                               Pending
+7. Note-Taking                              Pending
+8. Quote Generator                          Pending
